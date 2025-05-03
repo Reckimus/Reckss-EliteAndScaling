@@ -2,7 +2,7 @@
 Elites and Mob Scaling
 Elite Enemy Mod
 
-Version: 1.1.3
+Version: 1.3.0
 
 A BepInEx plugin for Erenshor that dynamically promotes nearby enemies to "Elite" status, making them tougher and more interesting.
 
@@ -25,3 +25,9 @@ Download Reckss_EliteAndScaling.dll and place it in BepInEx/plugins/.
 Launch the game; the plugin will generate EliteEnemyMod.cfg in BepInEx/config/.
 
 Users with Bepinex config manager can edit values directly in game!
+
+Still a few bugs but quite a few fixes 
+Update: Added dynamic and Lerp scaling to smooth lower lvl gameplay while still offering a challenge for max levels.
+Grouping is highly recommended unless youre fully purple geared. Some elites will remain easy (aka grass spiders) while others will be near god like and are tiered/prepared for upcoming Raid geared players or full purple groups.
+Also hooked into the Consider Opponent mechanic so pressing C now also gives you npcs true LVL and HP.
+if you use Drizzlx's enemy lvl mod disable the overhead option and you shouldnt get any conflicting lvl information any more.

@@ -2,7 +2,7 @@
 Elites and Mob Scaling
 Elite Enemy Mod
 
-Version: 1.3.0
+Version: 1.3.7
 
 A BepInEx plugin for Erenshor that dynamically promotes nearby enemies to "Elite" status, making them tougher and more interesting.
 
